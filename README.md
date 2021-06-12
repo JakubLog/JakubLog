@@ -6,7 +6,7 @@ On my profile you can find respositories with my static site code and my basics 
 Currently I'm interested in Webdev, definitely in Back-end.
 I'm using VSCode and my primary language is PHP at this moment.
 
-My lobby page (for projects): http://fedoszczak.bieda.it/
+My lobby page (for projects): https://fedoszczak.ovh/
 My static page: https://jakublog.github.io/site/
 
 <!---
