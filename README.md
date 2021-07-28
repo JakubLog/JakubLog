@@ -6,9 +6,7 @@ On my profile you can find respositories with my static site code and my basics 
 Currently I'm interested in Webdev, definitely in JavaScript and TypeScript.
 I'm using VSCode and my primary framework is React.js or Gastby.js.
 
-My lobby page (for projects): https://fedoszczak.ovh/
-My static page: https://jakublog.github.io/site/
-
+My personal page: https://fedoszczak.ovh/
 <!---
 JakubLog/JakubLog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
