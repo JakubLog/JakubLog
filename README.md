@@ -10,7 +10,7 @@ I'm Front-end developer (JavaScript & TypeScript) with UX/UI background. 🖌️
 ## What can I do?
 
 You can just check my respositories!
-But... you can too look below 🐒
+But... you can look below too 🐒
 
 ### Languages
 
