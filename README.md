@@ -39,7 +39,7 @@ You can check them and watch me. 🔝
 
 ## My GitHub stats ⚓
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLog&hide=prs&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubLog&count_private=true)
 
 <!---
 JakubLog/JakubLog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
