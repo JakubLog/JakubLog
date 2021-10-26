@@ -26,6 +26,7 @@ But... you can look below too 🐒
 
 Yeah, sure! 😃
 My personal and main website is: https://fedoszczak.ovh/ ✨
+But my all and actual links are there: https://linktr.ee/jakublog ⭐
 
 ## Let's keep in touch ✍️
 
