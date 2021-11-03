@@ -21,6 +21,7 @@ But... you can look below too 🐒
 ### Frameworks
 
 - React ⚛️
+- Next ⬅️
 
 ## Maybe... website?
 
