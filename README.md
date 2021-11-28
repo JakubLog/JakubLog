@@ -48,7 +48,7 @@ JakubLog/JakubLog is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[website]: https://fedoszczak.ovh/
+[website]: https://linktr.ee/jakublog
 [facebook]: https://www.facebook.com/jakublogg/
 [instagram]: https://www.instagram.com/jakub_fedoszczak__/
 [youtube]: https://www.youtube.com/channel/UCk4ogUEFjLOkm2HnlHyoDqQ
