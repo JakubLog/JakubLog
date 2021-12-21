@@ -1,4 +1,4 @@
-# Hello there! I'm Jakub Fedoszczak or just Jakublog 🙋‍♂️
+# Hello there! I'm Jakub! 🙋‍♂️
 
 ## Welcome to my profile. 🤝
 
