@@ -5,7 +5,7 @@
 I'm teenager from Poland with passion of IT and Programming. 🇵🇱
 On my profile you can find respositories with my projects.
 
-I'm Front-end developer (JavaScript & TypeScript) with UX/UI background. 🖌️
+I'm Full-stack developer (JavaScript & TypeScript) with UX/UI background. 🖌️
 
 ## What can I do?
 
